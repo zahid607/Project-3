@@ -104,9 +104,6 @@ data_clean <- na.omit(project3_data)
 
 # Data transformation:
 
-```{r}
 
-
-```
 
 
